@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/28 08:08:08.000.565,=C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/28 08:12:15.000.614,C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Controle_Financeiro\U_Principal.pas=C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/28 08:12:15.000.614,C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Controle_Financeiro\U_Principal.fmx=C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/12/28 08:12:24.000.054,C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Controle_Financeiro\P_Controle_Financeiro.dproj=C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/12/28 16:34:44.000.584,=C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Controle_Financeiro\Unit1.pas</Transaction>
+    <Transaction>2018/12/28 16:35:49.000.988,C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Controle_Financeiro\Unit1.dfm=C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Controle_Financeiro\UDM.dfm</Transaction>
+    <Transaction>2018/12/28 16:35:49.000.988,C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Controle_Financeiro\Unit1.pas=C:\Users\Suporte-Luiz\Documents\Embarcadero\Studio\Projects\Controle_Financeiro\UDM.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PLuiz iOSSimulator="iPhone5"/>
+		<NoProfile Android="teste"/>
+	</ActiveMobileDevice>
+</BorlandProject>
